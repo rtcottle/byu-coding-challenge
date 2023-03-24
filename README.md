@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a coding challenge to build a movie search app in a time limit
+This is a coding challenge to build a movie search app in a 4 hour-limit
 
 ## Table of Contents
 
@@ -20,15 +20,17 @@ This is a coding challenge to build a movie search app in a time limit
 
 ## Installation
 
-
-
 ## Usage
 
 Search for your favorite movies by title to receive some fun facts
 
 ## Credits
 
-
+Movie info: https://www.themoviedb.org/
+Vue: https://vuejs.org/
+Node: https://nodejs.org/
+Express: https://expressjs.com/
+Nuxt: https://nuxtjs.org/
 
 ## License
 
@@ -36,15 +38,11 @@ This project is under the [![License: MIT](https://img.shields.io/badge/License-
 
 ## Features
 
-
-
 ## How to Contribute
 
 GitHub
 
 ## Tests
-
-
 
 ## Questions
 
