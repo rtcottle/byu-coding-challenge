@@ -33,3 +33,18 @@ a,
     padding: 0 2rem;
   }
 }
+
+/* This is styling for the search box */
+.search-box {
+  background-color: var(--vt-c-black-soft);
+  color: var(--vt-c-white-soft);
+  height: 2rem;
+  border-radius: 15px 0px 0px 0px;
+}
+
+/* submit button styling  */
+.submit {
+  background-color: orange;
+  border-radius: 0px 0px 15px 0px;
+  height: 2rem;
+}
