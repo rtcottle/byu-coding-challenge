@@ -1,8 +1,10 @@
 /*
 --REST API--
 TODO: sign up for TMDB -- done 
+TODO: install vue -- done
+TODO: install nuxt -- done
 TODO: Build backend
- => Express/Node
+ => Express/Node -- done
  => Call TMDB api 
  => limit of 10 responses
 TODO: build front end

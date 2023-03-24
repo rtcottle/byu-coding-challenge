@@ -6,4 +6,5 @@ import TheWelcome from '../components/TheWelcome.vue'
   <main>
     <TheWelcome />
   </main>
+  <!-- TODO: add elements here for searched movies -->
 </template>

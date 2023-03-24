@@ -1,6 +1,6 @@
 import { response } from 'express';
 
-function apiCall(params) {
+export default function apiCall() {
   const KEY = process.env.API_KEY;
   const search = document.getElementById('query');
   const value = search.value;
@@ -12,5 +12,3 @@ function apiCall(params) {
   // TODO: data gets pushed to array and then sent to search view to generate elements
   data.results;
 }
-
-apiCall(query.params);

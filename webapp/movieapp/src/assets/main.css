@@ -24,7 +24,8 @@ a,
 @media (min-width: 1024px) {
   body {
     display: flex;
-    place-items: center;
+    place-items: flex-start;
+    padding: 2rem;
   }
 
   #app {
@@ -39,12 +40,12 @@ a,
   background-color: var(--vt-c-black-soft);
   color: var(--vt-c-white-soft);
   height: 2rem;
-  border-radius: 15px 0px 0px 0px;
+  border-radius: 10px 0px 0px 0px;
 }
 
 /* submit button styling  */
 .submit {
   background-color: orange;
-  border-radius: 0px 0px 15px 0px;
+  border-radius: 0px 0px 10px 0px;
   height: 2rem;
 }
