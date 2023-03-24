@@ -33,7 +33,7 @@ Back end: open the ternminal for the webservice folder and run "npm i" then "npm
 
 Search for your favorite movies by title to receive some fun facts.
 
-![screenshot](.screenshot.png)
+![screenshot](./screenshot.png)
 
 ## Credits
 
